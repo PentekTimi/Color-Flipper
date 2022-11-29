@@ -1,6 +1,6 @@
 Color Flipper
 
-A rabdom color background generator
+A random color background generator
 
 Key concepts covered:
 
